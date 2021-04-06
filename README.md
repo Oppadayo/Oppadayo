@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **paula.correapcs@gmail.com**
 
-- ⚡ Fun fact **Panda's eye 😜**
+- ⚡ Fun fact **Panda's eye 🐼**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
